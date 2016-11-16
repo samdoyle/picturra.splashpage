@@ -1,0 +1,31 @@
+body {
+	background-color: #FFF3C9;
+	margin: 250px 5px 50px 250px;
+	font-family: NeuzeitGro-Lig;
+}
+
+h1, h2, h3, h4, h5 { 
+	font-family: NeuzeitGro-Lig; 
+	font-weight: normal; 
+	font-style: normal; 
+}
+
+h1 {	font-family: "NeuzeitGro-Lig;",sans-serif;
+font-style: normal;
+font-weight: 300; font-size: 300%;
+	
+}
+
+h2 {
+	font-family: "neuzeit-grotesk",sans-serif;
+font-style: normal;
+font-weight: 300;
+	
+}
+
+p {
+	font-family: "neuzeit-grotesk",sans-serif;
+font-style: normal;
+font-weight: 300;
+	
+}
